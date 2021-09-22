@@ -28,7 +28,7 @@ You can find me at:
 - [discord.gg/tCFxmCF](https://discord.gg/tCFxmCF)
 - [discord.gg/xYDEAUvf4d](https://discord.gg/xYDEAUvf4d)
 - [exercism.io/profiles/nihilismus](https://exercism.io/profiles/nihilismus)
-- [fosstodon.org/@nihilipster](https://fosstodon.org/@nihilipster){: rel='me'}
+- [fosstodon.org/@nihilipster](https://fosstodon.org/@nihilipster)
 - [github.com/nihilismus](https://github.com/nihilismus)
 - [gitlab.com/nihilismus](https://gitlab.com/nihilismus)
 - [goodreads.com/nihilipster](https://goodreads.com/nihilipster)
