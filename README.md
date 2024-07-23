@@ -6,7 +6,7 @@ You can find me at:
 
 - [bitbucket.org/nihilismus](https://bitbucket.org/nihilismus)
 - [codeberg.org/nihilismus](https://codeberg.org/nihilismus)
-- [fosstodon.org/@nihilipster](https://fosstodon.org/@nihilipster){: rel='me'}
+- [fosstodon.org/@nihilipster](https://fosstodon.org/@nihilipster)
 - [github.com/nihilismus](https://github.com/nihilismus)
 - [gitlab.com/nihilismus](https://gitlab.com/nihilismus)
 - [goodreads.com/nihilipster](https://goodreads.com/nihilipster)
